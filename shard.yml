@@ -1,0 +1,13 @@
+name: initiator
+version: 0.1.0
+
+authors:
+  - meizuflux <76911441+meizuflux@users.noreply.github.com>
+
+targets:
+  initiator:
+    main: src/initiator.cr
+
+crystal: 1.4.1
+
+license: MIT
